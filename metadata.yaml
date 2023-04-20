@@ -1,0 +1,87 @@
+_repo: Notes-de-route-b-MarocAlgerieTunisie_70354
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dinet, Etienne
+    aliases:
+    - Dinet, Alphonse Étienne
+    - Dinet, Nasr ad Dine
+    - Dinet, Nasreddine
+    - Dinet, Étienne
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '40058'
+    url: http://www.gutenberg.org/2009/agents/40058
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Nasreddine_Dinet
+    - https://fr.wikipedia.org/wiki/%C3%89tienne_Dinet
+  - agent_name: Noiré, Maxime
+    alias: Noire, Maxime
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '55726'
+    url: http://www.gutenberg.org/2009/agents/55726
+    wikipedia: https://fr.wikipedia.org/wiki/Maxime_Noir%C3%A9
+  - agent_name: Rochegrosse, Georges
+    aliases:
+    - Rochegrosse, G. (Georges)
+    - Rochegrosse, Georges Antoine Marie
+    - Rochegrosse, Georges-Antoine
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '54111'
+    url: http://www.gutenberg.org/2009/agents/54111
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georges_Rochegrosse
+    - https://fr.wikipedia.org/wiki/Georges-Antoine_Rochegrosse
+creator:
+  author:
+    agent_name: Eberhardt, Isabelle
+    aliases:
+    - Ehnni, Isabelle Eberhardt
+    - Mahmoud, Si
+    - Saâdi, Mahmoud
+    - Saadi, Mahmoud
+    birthdate: 1877
+    deathdate: 1904
+    gutenberg_agent_id: '53988'
+    url: http://www.gutenberg.org/2009/agents/53988
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Isabelle_Eberhardt
+    - https://fr.wikipedia.org/wiki/Isabelle_Eberhardt
+  editor:
+    agent_name: Barrucand, Victor
+    birthdate: 1864
+    deathdate: 1934
+    gutenberg_agent_id: '53989'
+    url: http://www.gutenberg.org/2009/agents/53989
+    wikipedia: https://fr.wikipedia.org/wiki/Victor_Barrucand
+description: ''
+gutenberg_issued: '2023-03-23'
+identifiers:
+  gutenberg: '70354'
+language: fr
+pgterms:marc904: https://archive.org/details/notesderoutemaro00eberuoft
+pgterms:marc905: 20230224114849eberhardt
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bLibrairie Charpentier et Fasquelle, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, North -- Description and travel'
+- !lcsh 'Morocco -- Description and travel'
+- !lcsh 'Tunisia -- Description and travel'
+- !lcsh 'Algeria -- Description and travel'
+- !lcsh 'Tunisia -- Social life and customs'
+- !lcsh 'Algeria -- Social life and customs'
+- !lcsh 'Morocco -- Social life and customs'
+- !lcsh 'Eberhardt, Isabelle, 1877-1904 -- Travel -- Africa, North'
+- !lcsh 'Africa, North -- Social life and customs'
+- !lcc 'DT'
+- GITenberg
+title: 'Notes de route : $b Maroc—Algérie—Tunisie'
+url: http://www.gutenberg.org/ebooks/70354
